@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_l1t_zsm_gzb" path="topics/Duo_concept.html"/>
+   <appContext helpID="installingduo_task" path="topics/installingduo_task.html"/>
+   <appContext helpID="how_to_add_devices_to_duo_task"
+               path="topics/how_to_add_devices_to_duo_task.html"/>
+   <appContext helpID="reactivate_a_device" path="topics/reactivate_a_device.html"/>
+   <appContext helpID="device_requirements_for_duo_reference"
+               path="topics/device_requirements_for_duo_reference.html"/>
+</map>
